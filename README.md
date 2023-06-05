@@ -1,5 +1,5 @@
 # TMPS_all
-     Design patterns reprezintă soluții recurente la probleme comune întâlnite în dezvoltarea software-ului. Acestea sunt utilizate pentru a oferi structură, flexibilitate și modularitate în cadrul unei aplicații. În cazul aplicației noastre, am implementat 10 design patterns care abordează diferite aspecte ale sistemului de gestionare a evenimentelor într-un calendar. În continuare, voi explica în general de ce este utilizat fiecare dintre acești 10 patternuri.
+   Design patterns reprezintă soluții recurente la probleme comune întâlnite în dezvoltarea software-ului. Acestea sunt utilizate pentru a oferi structură, flexibilitate și modularitate în cadrul unei aplicații. În cazul aplicației noastre, am implementat 10 design patterns care abordează diferite aspecte ale sistemului de gestionare a evenimentelor într-un calendar. În continuare, voi explica în general de ce este utilizat fiecare dintre acești 10 patternuri.
 
 **Singleton Pattern:**
       Singleton Pattern este utilizat pentru a se asigura că există o singură instanță a unei clase în întreaga aplicație. Acest pattern este folosit pentru clasele care trebuie să aibă o unică instanță și oferă acces global la acea instanță. În cazul nostru, Singleton Pattern este utilizat pentru a asigura că avem o singură instanță a clasei de gestionare a listei de evenimente.
